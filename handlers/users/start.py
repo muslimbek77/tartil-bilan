@@ -13,7 +13,7 @@ async def start_command(message:Message):
             text=(
                 "Assalomu alaykum, botimizga hush kelibsiz! "
                 "Tajvid va Qur'on kursi bo'yicha savollaringiz bo'lsa, "
-                "tugma orqali ustoza yozishingiz mumkin."
+                "tugma orqali ustozga yozishingiz mumkin."
             ),
             reply_markup=contact_entry_kb(),
         )
